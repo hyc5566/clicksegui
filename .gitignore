@@ -1,0 +1,8 @@
+.gitignore
+
+clickseg
+
+backup
+experiments
+temp
+test
